@@ -2,6 +2,14 @@
 ![image](https://user-images.githubusercontent.com/24926691/97956682-a56fff80-1dec-11eb-8657-212f9240c0ae.png)
 
 
+
+order 의 yaml 파일에 추가
+
+api:
+  payment:
+    url: http://localhost:8082
+    
+    
 # 예제 - BookMarket
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
